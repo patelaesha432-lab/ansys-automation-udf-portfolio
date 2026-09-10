@@ -12,7 +12,7 @@ Automated CFD workflows using **PyAnsys (`pyfluent`)** and custom **C User Defin
 
 ### 3. Structural Mechanics Automation (`structural-automation/`)
 * **PyMAPDL Stress Analysis Script (`pymapdl_stress_sweep.py`):** Python-driven FEA workflow to automate material definitions, boundary condition setups, structural solving, and von Mises stress extractions.
-* 
+  
 ## Tech Stack
 * **Languages:** C, Python
 * **Target Software:** ANSYS Fluent, PyAnsys Core
