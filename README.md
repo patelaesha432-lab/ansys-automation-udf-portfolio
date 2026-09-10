@@ -10,6 +10,9 @@ Automated CFD workflows using **PyAnsys (`pyfluent`)** and custom **C User Defin
 ### 2. PyAnsys Automation (`pyansys-automation/`)
 * **Batch Solver Script (`batch_fluent_solver.py`):** Python script structure to launch ANSYS Fluent in headless mode, automate parametric iterations, and export CFD performance results.
 
+### 3. Structural Mechanics Automation (`structural-automation/`)
+* **PyMAPDL Stress Analysis Script (`pymapdl_stress_sweep.py`):** Python-driven FEA workflow to automate material definitions, boundary condition setups, structural solving, and von Mises stress extractions.
+* 
 ## Tech Stack
 * **Languages:** C, Python
 * **Target Software:** ANSYS Fluent, PyAnsys Core
